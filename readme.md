@@ -5,6 +5,7 @@ This code is from [M Koehnke](http://mkoehnke.github.io).  Per M Koehnke: This i
 A live demo can be found [here](http://rverse-tutorials.github.io/jekyll-simple-blog/).
 
 ## Installation
+
 * Fork the repository
 * Go to settings of your repository and set Github Pages source as master.
 * Your new site should be ready at https://yourusername.github.io/jekyll-simple-blog/ . Note it can take awhile (5-10 min) for the website to appear and for changes to appear.

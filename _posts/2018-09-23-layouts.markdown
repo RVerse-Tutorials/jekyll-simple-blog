@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Layouts"
+date:   2018-09-23
+categories: jekyll layout
+---
+
+You can customize different types of pages using the layout files in the `_layouts` folder.
